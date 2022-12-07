@@ -1,3 +1,18 @@
+0.5.0
+
+
+https://github.com/curefit/react-native-custom-tabs
+
+Commits:
+
+* 0.5.0
+    [devops-conman] - https://github.com/curefit/react-native-custom-tabs/commit/cc842086339bca13f825a6517ebd973c8cd83ae7
+    
+* Fix url
+    [Amandeep Singh] - https://github.com/curefit/react-native-custom-tabs/commit/25f0a9c47c0312f9021dda6405ccc689b1b6f34e
+    
+
+**********
 0.4.0
 
 
