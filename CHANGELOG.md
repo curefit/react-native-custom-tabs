@@ -1,3 +1,18 @@
+0.4.0
+
+
+react-native-custom-tabs
+
+Commits:
+
+* 0.4.0
+    [devops-conman] - https://github.com/curefit/react-native-custom-tabs/commit/0738408b177a1544e27c710fb3195b296f05f43c
+    
+* Add lock
+    [Amandeep Singh] - https://github.com/curefit/react-native-custom-tabs/commit/2d2d6e6f31fa3ff0eb9e3b2ce41bfe576bd1e238
+    
+
+**********
 0.3.0
 
 
