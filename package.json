@@ -14,12 +14,15 @@
   "homepage": "https://github.com/curefit/react-native-custom-tabs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/curefit/react-native-custom-tabs"
+    "url": "git+https://github.com/curefit/react-native-video.git"
   },
   "license": "Apache-2.0",
   "scripts": {
-    "lint": "eslint ./src ./index.js"
-  },
+    "lint": "yarn eslint *.js",
+    "build": "tsc",
+    "prepublishOnly": "rm -rf dist && tsc",
+    "postversion": "git push origin master && git push origin master --tags && npm publish"
+},
   "peerDependencies": {
     "react-native": "*",
     "react": "*"
