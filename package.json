@@ -14,7 +14,7 @@
   "homepage": "https://github.com/curefit/react-native-custom-tabs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/curefit/react-native-video.git"
+    "url": "git+https://github.com/curefit/react-native-custom-tabs.git"
   },
   "license": "Apache-2.0",
   "scripts": {
